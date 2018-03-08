@@ -7,7 +7,7 @@ To view your HTML file, in your web browser select File-Open File- then select t
 I. Create a basic HTML page.
   A. Create the basic layout for an HTML page using html, head, and body.
   B. Add a title element and give your page the title of "[Your name]'s HTML homework".
-  C. In the body, create three divs.
+  C. In the body, create three divs. 
     1. In the first div create:
       * an h1 element containing [Your name].
       * an h3 element containing "Lambda School".
